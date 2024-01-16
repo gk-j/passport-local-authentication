@@ -1,1 +1,1 @@
-npm run devStart
+To start the server:npm run devStart
